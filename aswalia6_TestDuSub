@@ -1,0 +1,8 @@
+test_du_sub (__main__.TestDuSub)
+du_sub returns a list ... Warning: Permission denied errors encountered.
+ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.038s
+
+OK
